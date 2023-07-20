@@ -1,7 +1,7 @@
 # some_scripts
 (Some general purpose scripts) 
 
-# 1) vbox_ssh.py (script to connect virtual box vm through ssh.)
+# 1️⃣ vbox_ssh.py (script to connect virtual box vm through ssh.)
 
 * Each and every VM in the virtual box has an unique UUID to which we can get to using: cmd : VBoxManage list vms.
 * O/P of the above prompt would be name of the vm and their corresponding UUIDs.
